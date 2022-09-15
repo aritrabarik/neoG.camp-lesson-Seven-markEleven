@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 80%;
+}
+
+h1 {
+  text-align: center;
+}
+
+input,
+label {
+  display: block;
+}
